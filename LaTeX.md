@@ -66,9 +66,9 @@ TODO
 
 File is collection of entries of the following format.
 
-@entrytype{label,
-  key=value,
-  ...}
+@entrytype{label,  
+&nbsp;&nbsp;&nbsp;&nbsp;key=value,  
+&nbsp;&nbsp;&nbsp;&nbsp;...}
 
 entrytype can be anything from {article, book, online, manual, misc, reference, report, custom}
 
