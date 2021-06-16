@@ -11,6 +11,7 @@
 |[Tables](#Tables)|A reference for Tables|
 |[Lists](#Lists)|A reference for Lists|
 |[Math](#Math)|A reference for Math|
+|[Bibliography](#Bibliography)|A reference for Bibliographies|
 |[Packages](#Packages)|A list of Packages|
 |[Environments](#Environments)|A list of Environments|
 |[References](#References)|A list of LaTeX References|
