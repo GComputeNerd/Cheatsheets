@@ -74,7 +74,12 @@ entrytype can be anything from {article, book, online, manual, misc, reference, 
 
 
 ## Packages
-TODO
+
+|Package Name|Usage|
+|------------|-----|
+|asmmath|For math formatting|
+|biblatex|For bibliographies|
+|graphicsx|For graphics|
 
 ## Environments
 
