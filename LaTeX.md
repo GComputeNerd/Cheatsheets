@@ -33,10 +33,22 @@ TODO
 TODO
 
 ## Math
-TODO
+
+### Inside an amsmath environment
+
+\tag{&lt;text&gt;} Adds &lt;text&gt; to the end of the line
 
 ## Packages
 TODO
 
 ## Environments
-TODO
+
+|Environment Name|Usage|
+|----------------|-----|
+|figure|Inserts a figure|
+|tabular|Inserts a table|
+|enumerate|Ordered list|
+|itemize|Unordered list|
+|math|Math in paragraph mode|
+|displaymath|Math in math mode|
+
