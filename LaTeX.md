@@ -72,6 +72,8 @@ TODO
 
 ### Math Environments
 
+|Environment Name|Usage|
+|----------------|-----|
 |math|Math in paragraph mode|
 |displaymath|Math in math mode|
 |equation|For a single equation|
