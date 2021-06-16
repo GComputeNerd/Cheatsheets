@@ -26,7 +26,21 @@ TODO
 TODO
 
 ## Images
-TODO
+
+*using graphicsx*
+
+\graphicspath{{./images1/}{./images2/}...} Sets folders containing images.
+
+\includegraphics{filename} Includes graphics.
+
+|Option|Description|
+|------|-----------|
+|scale|Scales image by number|
+|width|Sets width|
+|height|Sets height|
+|angle|Rotates by angle|
+
+For positioning wrap the above command in an environment like *figure*, or *wrapfigure*
 
 ## Tables
 TODO
