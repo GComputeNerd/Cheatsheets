@@ -51,4 +51,8 @@ TODO
 |itemize|Unordered list|
 |math|Math in paragraph mode|
 |displaymath|Math in math mode|
-
+|equation|For a single equation|
+|multline|Environment breaks down long expressions and aligns it. Breaks via \\\\ |
+|align|Environment aligns multiple equations, by adding an & before the = sign.|
+|split|Environment can only be used inside another environment. It splits the equation and aligns, like `align` but fits the whole construct into 1 unit.|
+|gather|Aligns multiple equations as groups of equations.|
