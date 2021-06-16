@@ -13,6 +13,7 @@
 |[Math](#Math)|A reference for Math|
 |[Packages](#Packages)|A list of Packages|
 |[Environments](#Environments)|A list of Environments|
+|[References](#References)|A list of LaTeX References|
 
 ## Formatting
 TODO
@@ -38,17 +39,39 @@ TODO
 
 \tag{&lt;text&gt;} Adds &lt;text&gt; to the end of the line
 
+### For spacing
+
+|Command|Usage|
+|-------|-----|
+|\quad|18mu|
+|\,|3mu|
+|\:|4mu|
+|\;|5mu|
+|\!|-3mu|
+|\ |space in normal text|
+|\qquad|36mu|
+
 ## Packages
 TODO
 
 ## Environments
 
+### Float Environments
+
 |Environment Name|Usage|
 |----------------|-----|
 |figure|Inserts a figure|
 |tabular|Inserts a table|
+
+### List Environments
+
+|Environment Name|Usage|
+|----------------|-----|
 |enumerate|Ordered list|
 |itemize|Unordered list|
+
+### Math Environments
+
 |math|Math in paragraph mode|
 |displaymath|Math in math mode|
 |equation|For a single equation|
@@ -56,3 +79,10 @@ TODO
 |align|Environment aligns multiple equations, by adding an & before the = sign.|
 |split|Environment can only be used inside another environment. It splits the equation and aligns, like `align` but fits the whole construct into 1 unit.|
 |gather|Aligns multiple equations as groups of equations.|
+
+## References
+
+- https://latex.wikia.org/wiki/List_of_LaTeX_environments
+- https://www.overleaf.com/learn/latex/Spacing_in_math_mode
+- https://www.overleaf.com/learn/latex/Lengths_in_LaTeX
+- https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath
