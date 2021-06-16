@@ -51,6 +51,27 @@ TODO
 |\ |space in normal text|
 |\qquad|36mu|
 
+## Bibliography
+
+*Using biblatex*
+
+\addbibresource{file.bib} imports bibliography file.
+
+\cite{label} Adds a citation.
+
+\printbibliography Prints full list of cited resources
+
+### Bibliography File
+
+File is collection of entries of the following format.
+
+@entrytype{label,
+  key=value,
+  ...}
+
+entrytype can be anything from {article, book, online, manual, misc, reference, report, custom}
+
+
 ## Packages
 TODO
 
@@ -88,3 +109,4 @@ TODO
 - https://www.overleaf.com/learn/latex/Spacing_in_math_mode
 - https://www.overleaf.com/learn/latex/Lengths_in_LaTeX
 - https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath
+- https://www.overleaf.com/learn/latex/Bibliography_management_with_biblatex
