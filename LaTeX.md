@@ -17,7 +17,13 @@
 |[References](#References)|A list of LaTeX References|
 
 ## Formatting
-TODO
+
+### Table of Document Classes
+
+|Class Name|Usage|
+|----------|-----|
+|article|A basic class for articles in LaTeX.|
+|standalone|A class that allows TeX code to compile standalone.|
 
 ## Structure
 TODO
@@ -131,3 +137,4 @@ entrytype can be anything from {article, book, online, manual, misc, reference, 
 - https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath
 - https://www.overleaf.com/learn/latex/Bibliography_management_with_biblatex
 - https://www.overleaf.com/learn/latex/Inserting_Images
+- https://ctan.org/topic/class
